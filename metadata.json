@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A responsive weather forecasting and intelligence application providing city searching, detailed forecasts, interactive weather trends, and travel recommendations using public APIs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
